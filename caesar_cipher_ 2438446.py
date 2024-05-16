@@ -1,5 +1,3 @@
-#Student_Name: Srijan Tamang
-#Student_ID: 2438446
 def welcome():
     '''
     Printing Welcome Message
